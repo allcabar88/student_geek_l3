@@ -66,3 +66,8 @@
 чтобы перейти к ветке branch_name
 > git checkout branch_name
 
+## Слияние веток и решение конфликтов
+
+Чтобы слить ветку branch_name и текущую ветку, нужно ввести:
+
+>git merge branch_name
