@@ -92,3 +92,5 @@
 >git commit --help
 >git branch --help
 >git checkout --help
+
+создаем ошибку 5
