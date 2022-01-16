@@ -53,3 +53,16 @@
 
 
 ![иногда нужно улыбнуться](1234.png)  
+
+
+## Чтобы посмотреть все ветки в Git
+
+> git branch
+
+чтобы создать новую ветку с именем branch_name
+
+> git branch branch_name
+
+чтобы перейти к ветке branch_name
+> git checkout branch_name
+
