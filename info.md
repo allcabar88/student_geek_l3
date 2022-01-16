@@ -64,5 +64,14 @@
 > git branch branch_name
 
 чтобы перейти к ветке branch_name
+
 > git checkout branch_name
+
+## Удаление веток
+
+для удаления веток branch_name. необходимо ввести: 
+
+>git branh - d branh_name
+
+она удалится если нет никаких проблем
 
