@@ -128,3 +128,6 @@
 
 >git remote rename
 
+Передать в чужой репозиторий
+
+git pull request
